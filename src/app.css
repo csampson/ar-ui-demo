@@ -1,0 +1,4 @@
+/* Hide the AR.js debugger */
+#arjsDebugUIContainer {
+  /* display: none; */
+}
